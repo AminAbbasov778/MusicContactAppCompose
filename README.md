@@ -8,15 +8,15 @@
 
 ### 🔹 Screen Previews (1/2)
 
-| Username Screen | Choice Screen | Musics Screen |
+| Musics Screen | Play Screen | Contacts Screen |
 |------------------|----------------|----------------|
-| <img src="Screenshot/Screenshot_20250803-123359.png" width="200" height="400" /> | <img src="Screenshot/Screenshot_20250803-123535.png" width="200" height="400" /> | <img src="Screenshot/Screenshot_20250803-123608.png" width="200" height="400" /> |
+| <img src="Screenshot/Screenshot_20250803-123535.png" width="200" height="400" /> | <img src="Screenshot/Screenshot_20250803-123637.png" width="200" height="400" /> | <img src="Screenshot/Screenshot_20250803-123956.png" width="200" height="400" /> |
 
 ### 🔹 Screen Previews (2/2)
 
-| Play Screen | Contacts Screen | Inactive TextField |
+| Choice Screen | Username Screen | Inactive TextField |
 |------------------|-------------|----------------------------|
-| <img src="Screenshot/Screenshot_20250803-123637.png" width="200" height="400" /> | <img src="Screenshot/Screenshot_20250803-123956.png" width="200" height="400" /> | <img src="Screenshot/Screenshot_20250803-134637.png" width="200" height="400" /> |
+| <img src="Screenshot/Screenshot_20250803-123535.png" width="200" height="400" /> | <img src="Screenshot/Screenshot_20250803-123359.png" width="200" height="400" /> | <img src="Screenshot/Screenshot_20250803-134637.png" width="200" height="400" /> |
 
 ---
 
@@ -135,4 +135,5 @@ READ_MEDIA_AUDIO / READ_EXTERNAL_STORAGE
 READ_CONTACTS
 
 POST_NOTIFICATIONS (Android 13+)
+
 
