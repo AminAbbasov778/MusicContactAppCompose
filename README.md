@@ -10,7 +10,7 @@
 
 | Musics Screen | Play Screen | Contacts Screen |
 |------------------|----------------|----------------|
-| <img src="Screenshot/Screenshot_20250803-123535.png" width="200" height="400" /> | <img src="Screenshot/Screenshot_20250803-123637.png" width="200" height="400" /> | <img src="Screenshot/Screenshot_20250803-123956.png" width="200" height="400" /> |
+| <img src="Screenshot/Screenshot_20250803-123608.png" width="200" height="400" /> | <img src="Screenshot/Screenshot_20250803-123637.png" width="200" height="400" /> | <img src="Screenshot/Screenshot_20250803-123956.png" width="200" height="400" /> |
 
 ### 🔹 Screen Previews (2/2)
 
@@ -135,5 +135,6 @@ READ_MEDIA_AUDIO / READ_EXTERNAL_STORAGE
 READ_CONTACTS
 
 POST_NOTIFICATIONS (Android 13+)
+
 
 
